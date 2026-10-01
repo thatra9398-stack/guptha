@@ -1,0 +1,17 @@
+# Python / Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Output Excel & confidential JSON files
+*.json
+*.xlsx
+
+# Environment variables & keys
+.env
+
+# Streamlit config
+.streamlit/
